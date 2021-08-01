@@ -13,5 +13,3 @@ Find answers to the questions:
 5. What was the correlation between different stocks' daily returns?
 6. How much value do we put at risk by investing in a particular stock?
 7. How can we attempt to predict future stock behavior?
-
-Ref: Lecture on Udemy
